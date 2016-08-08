@@ -1,0 +1,75 @@
+body {
+	width: 100%;
+	font-size: 28px;
+	    font-family: Arial, Helvetica, sans-serif;
+}
+.raper {
+	width: 100%;
+	background-color: #EEEEEE;
+	height: 90px;
+}
+
+.logo{
+	float: left;
+	width:10%;
+	margin-top:3%;
+margin-left:2%;
+}
+.but{
+	float: left;
+}
+.morebut{
+	margin-left: 2%;
+	float: left;
+	width:20%;
+	margin-top:3%;
+}
+.mainNuv{
+		overflow: hidden;
+		width:66%;
+		font-family: Arial, Helvetica, sans-serif;
+		    height: 89px;
+}
+.logo2{
+	float: right;
+	margin-right:2%;
+	margin-top:2%;
+}
+.button{
+	float: right;
+	width:14%;
+	text-align: center;
+}
+.button2{
+	float: right;
+	width:8%;
+	text-align: center;
+}
+
+a{
+	    text-decoration: none;
+	    color:black;
+}
+.mainNuv>ul{
+	margin-top:5%;
+	overflow: hidden;
+	 margin-right: 6%;
+}
+/**************************/
+.butDig{
+	width: 100%;
+	overflow: hidden;
+}
+.but1{
+	float: right;
+
+}
+.col1{
+	background-color: #0088cc;
+	height: 2%;
+}
+.col1{
+	background-color: #0088cc;
+	height: 1%;
+}
+
